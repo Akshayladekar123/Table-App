@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 
-To run this project directory you will have to follow steps below:
+To run this project directory you will have to follow steps below in the terminal:
 
 ## `cd table` 
 
