@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 
-In the project directory, you can run:
+To run this project directory you will have to follow steps below:
 
 ## `cd table` 
 
